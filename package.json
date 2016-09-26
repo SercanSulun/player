@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/SercanSulun/player#readme",
   "dependencies": {
+    "desktop-screenshot": "^0.1.1",
+    "pixelmatch": "^4.0.2",
     "robotjs": "^0.4.4"
   }
 }
